@@ -1,5 +1,5 @@
 # Honeypot
-##For the SSH Honeypot I used the one from pentbox, more specifically the pentbox 1.8.
+For the SSH Honeypot I used the one from pentbox, more specifically the pentbox 1.8.
 I got it from GitHub with the "git clone" command. After installing the honeypot I opened it with the following command: "sudo ruby pentbox.rb".
 
 Then I navigated to the second tab "Network tools" and then to the third tab "Honeypot"
