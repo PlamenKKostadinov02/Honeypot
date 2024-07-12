@@ -11,3 +11,5 @@ For the manual configuration we can open it whatever port we want, in this examp
 As we can see in the images that the honeypot works perfectly fine.
 
 DISCLAIMER: I first used this honeypot on another laptop which I don't have anymore and I did not document anything, on that laptop I opened the honeypot with the following command "sudo ruby pentbox.rb &" and left it working for 2 days. After these 2 days I opened the .json file I created so I can log all the intrusions it detected and it got over 50 intrusions.
+
+![image](https://github.com/user-attachments/assets/ea409419-c9dc-4c27-b1e2-27ef302d18af)
