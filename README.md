@@ -1,6 +1,16 @@
 # Honeypot
 For the SSH Honeypot I used the one from pentbox, more specifically the pentbox 1.8.
-I got it from GitHub with the "git clone" command. After installing the honeypot I opened it with the following command: "sudo ruby pentbox.rb".
+I got it from GitHub with the "git clone https://github.com/technicaldada/pentbox.git " command. Then I used the following commands in that order:
+- "cd pentbox"
+- "tar -zxvf pentbox.tar.gz"
+- "cd pentbox"
+- "./pentbox.rb"
+
+To install ruby I used this commands:
+- "sudo apt update"
+- "sudo apt install ruby"
+
+After installing the honeypot I opened it with the following command: "sudo ruby pentbox.rb".
 
 Then I navigated to the second tab "Network tools" and then to the third tab "Honeypot"
 ![image](https://github.com/user-attachments/assets/828540fd-ea25-43d0-a9e4-6920cd4059bc)
